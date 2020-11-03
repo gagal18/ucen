@@ -1,1 +1,1 @@
-alert("Welcom")
+console.log("u are in");
