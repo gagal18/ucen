@@ -9,3 +9,12 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light{
     background-color:  rgb(185, 214, 157)!important;
     border: 2px solid black;
 }
+.nav-item{
+    padding:12.5px 100px 12.5px 100px;
+    font-weight: 900;
+}
+.nav-item:hover{
+    background-color:rgb(101, 136, 68) ;
+    cursor: pointer;
+    
+}
