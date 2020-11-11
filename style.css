@@ -6,7 +6,7 @@ img{
     height: 50px;
 }
 nav.navbar.navbar-expand-lg.navbar-light.bg-light{
-    background-color:  rgb(185, 214, 157)!important;
+    background-color:  rgb(101, 136, 68)!important;
     border: 2px solid black;
 }
 .nav-item{
@@ -15,7 +15,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light{
     border: 0.5px solid black;
 }
 .nav-item:hover{
-    background-color:rgb(101, 136, 68) ;
+    background-color:rgb(185, 214, 157) ;
     cursor: pointer;
     
 }
@@ -23,4 +23,18 @@ i{
     margin-top: 10px;
     margin-left: 20px;
     color: black;
+}
+.footer {
+  position: fixed;
+  left: 10%;
+  bottom: 0;
+  width: 80%;
+  background-color:rgb(101, 136, 68);
+  color: white;
+  text-align: center;
+  height: 30px;
+}
+.footer img{
+    width: 20px;
+    height: 20px;
 }
